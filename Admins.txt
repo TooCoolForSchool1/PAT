@@ -1,0 +1,6 @@
+User,Password
+A001,SwimAdmin01
+A002,PoolManager22
+A003,LaneKeeper33
+A004,RaceControl44
+A005,MeetDirector55
